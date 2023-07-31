@@ -1,0 +1,53 @@
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  header h1 {
+    margin: 10px 0;
+  }
+  
+  #contact, #portfolio, #resume {
+    padding: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project h3 {
+    margin: 0;
+  }
+  
+  .project p {
+    margin-bottom: 10px;
+  }
+  
+  .project a {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .project a:hover {
+    background-color: #0056b3;
+  }
+  
+  
